@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WADS_Assignment_TodoApp/static/css/main.abf593c4.css",
+    "main.js": "/WADS_Assignment_TodoApp/static/js/main.e0854475.js",
+    "index.html": "/WADS_Assignment_TodoApp/index.html",
+    "main.abf593c4.css.map": "/WADS_Assignment_TodoApp/static/css/main.abf593c4.css.map",
+    "main.e0854475.js.map": "/WADS_Assignment_TodoApp/static/js/main.e0854475.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf593c4.css",
+    "static/js/main.e0854475.js"
+  ]
+}
